@@ -1,0 +1,304 @@
+no_player: '&c&lYou are not a player'
+no_permission: '&cYou do not have the permission to do that'
+inventory_full: '&c&lYour inventory is full!'
+base_mana: 100
+base_defense: 0
+base_health: 100
+base_strength: 10
+base_crit_chance: 10
+base_crit_damage: 10
+
+enable-damage-indicator: true
+actionbar:
+# %cur_health% = players current health
+# %max_health% = players max health
+# %cur_mana% = players current mana
+# %max_mana% = players max mana
+# %cur_strength% = players current strength
+# %cur_defense% = players current defense 
+# %cur_crit_chance% = players current crit chance
+# %cur_crit_damage% = players current crit damage
+   enabled: true
+   msg: '&c%cur_health%/%max_health%❤   &a%cur_defense%❇ Defense   &b%cur_mana%/%max_mana%✎ Mana'
+enchantments:
+#max 3 lines of description
+   aiming: 
+      name: '&9Aiming'
+      ench_table_name: '&7Aiming'
+      description:
+         line_1: '&7Arrows home towards nearby'
+         line_2: '&7monsters if they are within &a%%%'
+         line_3: '&7blocks'
+   aqua_affinity:
+      name: '&9Aqua Affinity'
+      ench_table_name: '&7Aqua Affinity'
+      description:
+         line_1: '&7Increases your underwater'
+         line_2: '&7mining rate'
+         line_3: 
+   bane_of_arthropods:
+      name: '&9Bane of Arthropods'
+      ench_table_name: '&7Bane of Arthropods'
+      description: 
+         line_1: '&7Increases damage dealt to'
+         line_2: '&7Spiders, Silverfish, and Cave Spiders by &a%%%'
+         line_3:
+   blast_protection:
+      name: '&9Blast Protection'
+      ench_table_name: '&7Blast Protection'
+      description:
+         line_1: '&7Grants &a+%%% ❁ Defense'
+         line_2: '&7against explosions'
+         line_3: 
+   critical:
+      name: '&9Critical'
+      ench_table_name: '&7Critical'
+      description:
+         line_1: '&7Increase &9☠ Crit Damage &7by'
+         line_2: '&a%%%&7.'
+         line_3:
+   cubism:
+      name: '&9Cubism'
+      ench_table_name: '&7Cubism'
+      description: 
+         line_1: '&7Increases damage dealt to'
+         line_2: '&7Magma Cubes, Slimes, and'
+         line_3: '&7Creepers by &a%%%'
+   depth_strider:
+      name: '&9Depth Strider'
+      ench_table_name: '&7Depth Strider'
+      description:
+         line_1: '&7Reduces how much you'
+         line_2: '&7are slowed by water'
+         line_3:
+   dragon_hunter:
+      name: '&9Dragon Hunter'
+      ench_table_name: '&7Dragon Hunter'
+      description:
+         line_1: '&7Increases damage dealt to'
+         line_2: '&7Ender Dragons by &a%%%&7.'
+         line_3:  
+   efficiency:
+      name: '&9Efficiency'
+      ench_table_name: '&7Efficiency'
+      description:
+         line_1: '&7Increases how quickly your tool'
+         line_2: '&7breaks blocks.'
+         line_3:
+   ender_slayer:
+      name: '&9Ender Slayer'
+      ench_table_name: '&7Ender Slayer'
+      description: 
+         line_1: '&7Increases damage dealt to'
+         line_2: '&7Ender Dragons and'
+         line_3: '&7Endermen by &a%%%'
+   feather_falling:
+      name: '&9Feather Falling'
+      ench_table_name: '&7Feather Falling'
+      description:
+         line_1: '&7Deacreases fall damage by &a%%%'
+         line_2: '&7and increases height before fall'
+         line_3:  '&7damage by &a%%b &7blocks.'
+   fire_aspect:
+      name: '&9Fire Aspect'
+      ench_table_name: '&7Fire Aspect'
+      description:
+         line_1: '&7Ignites your enemies for at least &a%%%&7'
+         line_2: '&7seconds, dealing &a%%d &7damage &7per'
+         line_3: '&7second.'
+   fire_protection:
+      name: '&9Fire Protection'
+      ench_table_name: '&7Fire Protection'
+      description:
+         line_1: '&7Grants &a+%%% ❁ Defense'
+         line_2: '&7against fire and lava'
+         line_3:
+   first_strike:
+      name: '&9First Strike'
+      ench_table_name: '&7First Strike'
+      description:
+         line_1: '&7Increases melee damage dealt by'
+         line_2: '&a%%% &7for the first hit on a'
+         line_3: '&7mob.'
+   flame:
+      name: '&9Flame'
+      ench_table_name: '&7Flame'
+      description:
+         line_1: '&7Awwor ignites target for &a3 &7seconds,'
+         line_2: '&7dealing &a5 &7damage every second'
+         line_3: 
+   fortune:
+      name: '&9Fortune'
+      ench_table_name: '&7Fortune'
+      description:
+         line_1: '&7Icreases the chance of blocks'
+         line_2: '&7to drop double amount of items'
+         line_3: '&7by &a%%%&7.'
+   growth:
+      name: '&9Growth'
+      ench_table_name: '&7Growth'
+      description:
+         line_1: '&7Grants &a+%%% &c❤ Health'
+         line_2: 
+         line_3: 
+   knockback:
+      name: '&9Knockback'
+      ench_table_name: '&7Knockback'
+      description:
+         line_1: '&7Increases knockback by &a%%%'
+         line_2: '&7blocks.'
+         line_3:
+   life_steal:
+      name: '&9Life Steal'
+      ench_table_name: '&7Life Steal'
+      description:
+         line_1: '&7Heals for &a%%% &7of the'
+         line_2: '&7damage you deal to mobs'
+         line_3: 
+   looting:
+      name: '&9Looting'
+      ench_table_name: '&7Looting'
+      description:
+         line_1: '&7Increases the chance of'
+         line_2: '&7mobs dropping items by &a%%%&7.'
+         line_3: 
+   power:
+      name: '&9Power'
+      ench_table_name: '&7Power'
+      description: 
+         line_1: '&7Increases bow damage by &a%%%&7.'
+         line_2:
+         line_3:
+   projectile_protection:
+      name: '&9Projectile Protection'
+      ench_table_name: '&7Projectile Protection'
+      description:
+         line_1: '&7Grants &a+%%% ❁ Defense'
+         line_2: '&7against projectiles'
+         line_3:
+   protection:
+      name: '&9Protection'
+      ench_table_name: '&7Protection'
+      description: 
+         line_1: '&7Grants &a+%%% ❁ Defense&7.'
+         line_2:
+         line_3:
+   punch:
+      name: '&9Punch'
+      ench_table_name: '&7Punch'
+      description: 
+         line_1: '&7Increase knockback dealt'
+         line_2: '&7by &a%%%&7.'
+         line_3:
+   respiration:
+      name: '&9Respiration'
+      ench_table_name: '&7Respiration'
+      description:
+         line_1: '&7Extends underwater breathing time'
+         line_2: '&7by &a%%% &7seconds .'
+         line_3:
+   sharpness:
+      name: '&9Sharpness'
+      ench_table_name: '&7Sharpness'
+      description:
+         line_1: '&7Increases melee damage dealt by'
+         line_2: '&a%%%'
+         line_3:
+   silk_touch:
+      name: '&9Silk Touch'
+      ench_table_name: '&7Silk Touch'
+      description:
+         line_1: '&7Mined blocks drops itself instead'
+         line_2: '&7of their normal drops'
+         line_3:
+   smite:
+      name: '&9Smite'
+      ench_table_name: '&7Smite'
+      description:
+         line_1: '&7Increases damage dealt to'
+         line_2: '&7Zombies, Skeletons, Withers,'
+         line_3: '&7and Zombie Pigmen by &a%%%&7.'
+   snipe: 
+      name: '&9Snipe'
+      ench_table_name: '&7Snipe'
+      description:
+         line_1: '&7Arrows deal &a+%%% &7damage for'
+         line_2: '&7every &a10 &7blocks traveled'
+         line_3: 
+   telekinesis:
+      name: '&9Telekinesis'
+      ench_table_name: '&7Telekinesis'
+      description:
+         line_1: '&7Blocks and mob drops go directly'
+         line_2: '&7into your inventory'
+         line_3: 
+   thorns:
+      name: '&9Thorns'
+      ench_table_name: '&7Thorns'
+      description:
+         line_1: '&7&a50% &7chance to rebound &a%%%'
+         line_2: '&7damage you took at the attacker'
+         line_3:
+commands:
+   setaltar:
+      permission: 'specialitems.setaltar'
+   ci:
+      permission: 'specialitems.ci'
+      usage: '&aPlease use &b/ci'
+   bazaar: 
+      permission: 'specialitems.bazaar'
+      usage: '&aPlease use &b/bazaar'
+   pet:
+      permission: 'specialitems.pet.give'
+      usage: '&aPlease use &b/pet <tiger> <common/uncommon/rare/epic/legendary>'
+   pets:
+      permission: 'specialitems.pets'
+      usage: '&aPlease use &b/pets'
+   anvil:
+      permission: 'specialitems.openanvilcmd'
+   attribute:
+      permission: 'specialitems.attribute'
+      usage: '&aPlease use &b/attribute add/remove <player> <attribute> <amount>'
+      attribute: '&a%player% has now a total of %amount% %attribute%'
+   health:
+      name: 'Health'
+      permission: 'specialitems.critdamage'
+      usage: '&aPlease use &b/addhp <Nr> &a and hold an item in your hand'
+      health: '&aAdded &a[health] Health &ato your item'
+   defense: 
+      name: 'Defense'
+      permission: 'specialitems.critdamage'
+      usage: '&aPlease use &b/adddef <Nr> &a and hold an item in your hand'
+      defense: '&aAdded &a[defense] Defense &ato your item'
+   intelligence:
+      name: 'Intelligence'
+      permission: 'specialitems.critdamage'
+      usage: '&aPlease use &b/addint <Nr> &a and hold an item in your hand'
+      intelligence: '&aAdded &a[intelligence] Intelligence &ato your item'
+   strength:
+      name: 'Strength'
+      permission: 'specialitems.addstrength'
+      usage: '&aPlease use &b/strength <Nr> &a and hold an item in your hand'
+      strength: '&aAdded &c[strength] Strength &ato your item'
+   damage:
+      name: 'Damage'
+      permission: 'specialitems.adddamage'
+      usage: '&aPlease use &b/damage <Nr> &a and hold an item in your hand'
+      damage: '&aAdded &c[damage] Damage &ato your item'
+   setrarity:
+      permission: 'specialitem.setrarity'
+      usage: '&aPlease use &b/setrarity <common/uncommon/rare/epic/legendary> &aand hold an item in your hand'
+      setrarity: '&aSet Rarity to [rarity]'
+   crit_chance:
+      name: 'Crit Chance'
+      permission: 'specialitems.critchance'
+      usage: '&aPlease use &b/addcc <Nr> &a and hold an item in your hand'
+      crit_chance: '&aAdded &c[crit_chance] Crit Chance &ato your item'
+   crit_damage:
+      name: 'Crit Damage'
+      permission: 'specialitems.critdamage'
+      usage: '&aPlease use &b/addcd <Nr> &a and hold an item in your hand'
+      crit_damage: '&aAdded &c[crit_damage] Crit Damage &ato your item'
+   addench:
+      permission: 'specialitems.addench'
+      usage: '&aPlease use &b/addench <firststrike/lifesteal/telekinesis/dragonhunter/aiming/snipe/cubism/growth/critical/enderslayer> <value> &aand hold an item in your hand'

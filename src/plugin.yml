@@ -1,0 +1,48 @@
+name: SpecialItems
+version: 3.0
+main: de.ancash.specialitems.SpecialItems
+softdepend: [CraftingInjector]
+depend: [ActionBarAPI, NBTAPI]
+
+
+commands:
+   hideentity:
+      description:
+   setaltar:
+      description: Sets Dragon Altar
+   helix:
+      description: fa
+   ci:
+      description: Open inv with custom items
+   cct:
+      description: Opens custom crafting table
+   bazaar:
+      description: Opens bazaar
+   pet:
+      description: Gives you a pet
+   pets:
+      description: Opens the pet menu
+   strength:
+      description: Adds extra Strength to the item in your hand
+   damage:
+      description: Adds extra Damage to the item in your hand
+   setrarity:
+      description: Sets an items rarity
+   addench:
+      description: Adds unsafe enchantments
+   addcc:
+      description: Adds crit chance
+   addcd:
+      description: Adds crit damage
+   addhp:
+      description: Adds health
+   addint:
+      description: Adds intelligence
+   adddef:
+      description: Adds defense
+   dragon:
+      description: spawns a drag
+   attribute:
+      description: Sets some stats
+   anvil:
+      description: Opens avil GUI

@@ -1,0 +1,52 @@
+sounds:
+   notenoughxp: ENTITY_ENDERMAN_TELEPORT
+   use: BLOCK_ANVIL_STEP
+items:
+   green:
+      material: LEGACY_STAINED_GLASS_PANE
+      byte: 5
+      name: " "
+   background_red:
+      material: LEGACY_STAINED_GLASS_PANE
+      byte: 14
+      name: " "
+   background:
+      material: LEGACY_STAINED_GLASS_PANE
+      byte: 15
+      name: " "
+   anvil:
+      material: LEGACY_ANVIL
+      name: "&aCombine Items"
+      lore:
+      - "&7Combine the items in the slots"
+      - "&7to the left and right below."
+   close:
+      material: LEGACY_BARRIER
+      name: "&cClose"
+   upgrade:
+      material: LEGACY_STAINED_GLASS_PANE
+      byte: 14
+      name: "§6Item To Upgrade"
+      lore:
+      - "§7The item you want to"
+      - "§7upgrade should be placed in"
+      - "§7the slot on this side"
+   sacrifice:
+      material: LEGACY_STAINED_GLASS_PANE
+      byte: 14
+      name: "§6Item to Sacrifice"
+      lore:
+      - "§7The item you are"
+      - "§7sacrificing in order to"
+      - "§7upgrade the item on the"
+      - "§7left should be placed in"
+      - "§7the slot on this sode."
+   error:
+      material: LEGACY_BARRIER
+      name: "§cAnvil"
+      lore:
+      - "§7Place a target item in the left"
+      - "§7slot and a sacrifice item in the"
+      - "§7right slot to combine"
+      - "§7Enchantments"
+      

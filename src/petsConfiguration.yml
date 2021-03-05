@@ -1,0 +1,563 @@
+pets:
+   xp_requirements:
+      Lvl1: 0 0 0 0 0
+      Lvl2: 100 175 275 440 660
+      Lvl3: 110 190 300 490 730
+      Lvl4: 120 210 330 540 800
+      Lvl5: 130 230 360 600 880
+      Lvl6: 145 250 400 660 960
+      Lvl7: 160 275 440 730 1050
+      Lvl8: 175 300 490 800 1150
+      Lvl9: 190 330 540 880 1260
+      Lvl10: 210 360 600 960 1380
+      Lvl11: 230 400 660 1050 1510
+      Lvl12: 250 440 730 1150 1650
+      Lvl13: 275 490 800 1260 1800
+      Lvl14: 300 540 880 1380 1960
+      Lvl15: 330 600 960 1510 2130
+      Lvl16: 360 660 1050 1650 2310
+      Lvl17: 400 730 1150 1800 2500
+      Lvl18: 440 800 1260 1960 2700
+      Lvl19: 490 880 1380 2130 2920
+      Lvl20: 540 960 1510 2310 3160
+      Lvl21: 600 1050 1650 2500 3420
+      Lvl22: 660 1150 1800 2700 3700
+      Lvl23: 730 1260 1960 2920 4000
+      Lvl24: 800 1380 2130 3160 4350
+      Lvl25: 880 1510 2310 3420 4750
+      Lvl26: 960 1650 2500 3700 5200
+      Lvl27: 1050 1800 2700 4000 5700
+      Lvl28: 1150 1960 2920 4350 6300
+      Lvl29: 1260 2130 3160 4750 7000
+      Lvl30: 1380 2310 3420 5200 7800
+      Lvl31: 1510 2500 3700 5700 8700
+      Lvl32: 1650 2700 4000 6300 9700
+      Lvl33: 1800 2920 4350 7000 10800
+      Lvl34: 1960 3160 4750 7800 12000
+      Lvl35: 2130 3420 5200 8700 13300
+      Lvl36: 2310 3700 5700 9700 14700
+      Lvl37: 2500 4000 6300 10800 16200
+      Lvl38: 2700 4350 7000 12000 17800
+      Lvl39: 2920 4750 7800 13300 19500
+      Lvl40: 3160 5200 8700 14700 21300
+      Lvl41: 3420 5700 9700 16200 23200
+      Lvl42: 3700 6300 10800 17800 25200
+      Lvl43: 4000 7000 12000 19500 27400
+      Lvl44: 4350 7800 13300 21300 29800
+      Lvl45: 4750 8700 14700 23200 32400
+      Lvl46: 5200 9700 16200 25200 35200
+      Lvl47: 5700 10800 17800 27400 38200
+      Lvl48: 6300 12000 19500 29800 41400
+      Lvl49: 7000 13300 21300 32400 44800
+      Lvl50: 7800 14700 23200 35200 48400
+      Lvl51: 8700 16200 25200 38200 52200
+      Lvl52: 9700 17800 27400 41400 56200
+      Lvl53: 10800 19500 29800 44800 60400
+      Lvl54: 12000 21300 32400 48400 64800
+      Lvl55: 13300 23200 35200 52200 69400
+      Lvl56: 14700 25200 38200 56200 74200
+      Lvl57: 16200 27400 41400 60400 79200
+      Lvl58: 17800 29800 44800 64800 84700
+      Lvl59: 19500 32400 48400 69400 90700
+      Lvl60: 21300 35200 52200 74200 97200
+      Lvl61: 23200 38200 56200 79200 104200
+      Lvl62: 25200 41400 60400 84700 111700
+      Lvl63: 27400 44800 64800 90700 119700
+      Lvl64: 29800 48400 69400 97200 128200
+      Lvl65: 32400 52200 74200 104200 137200
+      Lvl66: 35200 56200 79200 111700 146700
+      Lvl67: 38200 60400 84700 119700 156700
+      Lvl68: 41400 64800 90700 128200 167700
+      Lvl69: 44800 69400 97200 137200 179700
+      Lvl70: 48400 74200 104200 146700 192700
+      Lvl71: 52200 79200 111700 156700 206700
+      Lvl72: 56200 84700 119700 167700 221700
+      Lvl73: 60400 90700 128200 179700 237700
+      Lvl74: 64800 97200 137200 192700 254700
+      Lvl75: 69400 104200 146700 206700 272700
+      Lvl76: 74200 111700 156700 221700 291700
+      Lvl77: 79200 119700 167700 237700 311700
+      Lvl78: 84700 128200 179700 254700 333700
+      Lvl79: 90700 137200 192700 272700 357700
+      Lvl80: 97200 146700 206700 291700 383700
+      Lvl81: 104200 156700 221700 311700 411700
+      Lvl82: 111700 167700 237700 333700 441700
+      Lvl83: 119700 179700 254700 357700 476700
+      Lvl84: 128200 192700 272700 383700 516700
+      Lvl85: 137200 206700 291700 411700 561700
+      Lvl86: 146700 221700 311700 441700 611700
+      Lvl87: 156700 237700 333700 476700 666700
+      Lvl88: 167700 254700 357700 516700 726700
+      Lvl89: 179700 272700 383700 561700 791700
+      Lvl90: 192700 291700 411700 611700 861700
+      Lvl91: 206700 311700 441700 666700 936700
+      Lvl92: 221700 333700 476700 726700 1016700
+      Lvl93: 237700 357700 516700 791700 1101700
+      Lvl94: 254700 383700 561700 861700 1191700
+      Lvl95: 272700 411700 611700 936700 1286700
+      Lvl96: 291700 441700 666700 1016700 1386700
+      Lvl97: 311700 476700 726700 1101700 1496700
+      Lvl98: 333700 516700 791700 1191700 1616700
+      Lvl99: 357700 561700 861700 1286700 1746700
+      Lvl100: 383700 611700 936700 1386700 1886700	
+   #abilities can be added to every pet
+   # add the following options to upgrade_per_level of your pet and rarity and set it to > 0
+   #strength
+   #crit_chance
+   #crit_damage
+   #health
+   #defense
+   #intelligence
+   #merciless_swipe
+   #apex_predator
+   #end_strike
+   #one_with_the_dragon_strength
+   #one_with_the_dragon_damage
+   #superior
+   #xp_boost
+   # you can add them by changing upgrade_per_level to > 0
+   # placeholders:
+   #%strength%
+   #%crit_chance%
+   #%crit_damage%
+   #%health%
+   #%defense%
+   #%intelligence%
+   #%merciless_swipe%
+   #%apex_predator%
+   #%end_strike%
+   #%one_with_the_dragon_strength% (boosts aotd)
+   #%one_with_the_dragon_damage% (boosts aotd)
+   #%superior%
+   #%xp_boost%
+   # do not change the progress bar (§f--------------------) but you can use it on an other place
+   
+   #fish names:
+   # raw_fish
+   # salmon
+   # clownfish
+   # pufferfish
+   tiger:
+      xp-block-mob-fish:
+         STONE:
+            xp: 1
+         COBBLESTONE:
+            xp: 1
+         ICE:
+            xp: 0.2
+         PACKED_ICE:
+            xp: 0.2
+         NETHERRACK:
+            xp: 0.5
+         SAND:
+            xp: 3
+         GRAVEL:
+            xp: 4
+         QUARTZ_ORE:
+            xp: 5
+         ENDER_STONE:
+            xp: 5
+         COAL_ORE:
+            xp: 5
+         IRON_ORE:
+            xp: 5
+         GOLD_ORE:
+            xp: 6
+         GLOWSTONE:
+            xp: 7
+         LAPIS_ORE:
+            xp: 7
+         REDSTONE_ORE:
+            xp: 7
+         GLOWING_REDSTONE_ORE:
+            xp: 7
+         EMERALD_ORE:
+            xp: 9
+         DIAMOND_ORE:
+            xp: 10
+         DIAMOND_BLOCK:
+            xp: 15
+         OBSIDIAN:
+            xp: 20
+         LOG:
+            xp: 6
+         WHEAT:
+            xp: 1
+         POTATOE:
+            xp: 1
+         CARROT:
+            xp: 1
+         MELON_BLOCK:
+            xp: 4
+         PUMPKIN:
+            xp: 4.5
+         SUGAR_CANE_BLOCK:
+            xp: 2
+         CACTUS:
+            xp: 2
+         BROWN_MUSHROOM:
+            xp: 2
+         RED_MUSHROOM:
+            xp: 2
+         COCOA:
+            xp: 2
+         raw_fish:
+            xp: 1000
+         salmon:
+            xp: 1000
+         clownfish:
+            xp: 1000
+         pufferfish:
+            xp: 1000
+         ZOMBIE:
+            xp: 100000
+      common:
+         lore: 
+         - '§8Combat Pet'
+         - ' '
+         - '§7Crit Damage: §a+%crit_damage%'
+         - '§7Crit Chance: §a+%crit_chance%'
+         - '§7Strength: §a+%strength%'
+         - '  '
+         - '§6Merciless Swipe'
+         - '§7Attacks have a §a%merciless_swipe%% §7chance'
+         - '&7to strike twice'
+         - '   '
+         - '§7Progress to Level %lvl%: §e%progress_percent%'
+         - '§f-------------------- §e%cur_xp%§6/§e%req_xp%'
+         - '               '
+         - '§f§lCOMMON'
+      uncommon:
+         lore: 
+         - '§8Combat Pet'
+         - ' '
+         - '§7Crit Damage: §a+%crit_damage%'
+         - '§7Crit Chance: §a+%crit_chance%'
+         - '§7Strength: §a+%strength%'
+         - '  '
+         - '§6Merciless Swipe'
+         - '§7Attacks have a §a%merciless_swipe%% §7chance'
+         - '&7to strike twice'
+         - '   '
+         - '§7Progress to Level %lvl%: §e%progress_percent%'
+         - '§f-------------------- §e%cur_xp%§6/§e%req_xp%'
+         - '               '
+         - '§a§lUNCOMMON'
+      rare:
+         lore: 
+         - '§8Combat Pet'
+         - ' '
+         - '§7Crit Damage: §a+%crit_damage%'
+         - '§7Crit Chance: §a+%crit_chance%'
+         - '§7Strength: §a+%strength%'
+         - '  '
+         - '§6Merciless Swipe'
+         - '§7Attacks have a §a%merciless_swipe%% §7chance'
+         - '&7to strike twice'
+         - '   '
+         - '§7Progress to Level %lvl%: §e%progress_percent%'
+         - '§f-------------------- §e%cur_xp%§6/§e%req_xp%'
+         - '               '
+         - '§9§lRARE'
+      epic:
+         lore: 
+         - '§8Combat Pet'
+         - ' '
+         - '§7Crit Damage: §a+%crit_damage%'
+         - '§7Crit Chance: §a+%crit_chance%'
+         - '§7Strength: §a+%strength%'
+         - '  '
+         - '§6Merciless Swipe'
+         - '§7Attacks have a §a%merciless_swipe%% §7chance'
+         - '&7to strike twice'
+         - '   '
+         - '§7Progress to Level %lvl%: §e%progress_percent%'
+         - '§f-------------------- §e%cur_xp%§6/§e%req_xp%'
+         - '               '
+         - '§5§lEPIC'
+      legendary:
+         lore: 
+         - '§8Combat Pet'
+         - ' '
+         - '§7Crit Damage: §a+%crit_damage%'
+         - '§7Crit Chance: §a+%crit_chance%'
+         - '§7Strength: §a+%strength%'
+         - '  '
+         - '§6Merciless Swipe'
+         - '§7Attacks have a §a%merciless_swipe%% §7chance'
+         - '&7to strike twice'
+         - '   '
+         - '§6Apex Predator'
+         - '§7Deal §c+%apex_predator%% §7damage aigainst'
+         - '§7targets with no other mobs'
+         - '§7within §a15 blocks'
+         - '    '
+         - '§7Progress to Level %lvl%: §e%progress_percent%'
+         - '§f-------------------- §e%cur_xp%§6/§e%req_xp%'
+         - '               '
+         - '§6§lLEGENDARY'
+      upgrade_per_level:
+         common:
+            strength: 0.1
+            crit_chance: 0.05
+            crit_damage: 0.5
+            health: 0
+            defense: 0
+            intelligence: 0
+            merciless_swipe: 0.05
+            apex_predator: 0
+            end_strike: 0
+            one_with_the_dragon_damage: 0
+            one_with_the_dragon_strength: 0
+            superior: 0
+         uncommon:
+            strength: 0.1
+            crit_chance: 0.05
+            crit_damage: 0.5
+            health: 0
+            defense: 0
+            intelligence: 0
+            merciless_swipe: 0.1
+            apex_predator: 0
+            end_strike: 0
+            one_with_the_dragon_damage: 0
+            one_with_the_dragon_strength: 0
+            superior: 0
+         rare:
+            strength: 0.1
+            crit_chance: 0.05
+            crit_damage: 0.5
+            health: 0
+            defense: 0
+            intelligence: 0
+            merciless_swipe: 0.1
+            apex_predator: 0
+            end_strike: 0
+            one_with_the_dragon_damage: 0
+            one_with_the_dragon_strength: 0
+            superior: 0
+         epic:
+            strength: 0.1
+            crit_chance: 0.05
+            crit_damage: 0.5
+            health: 0
+            defense: 0
+            intelligence: 0
+            merciless_swipe: 0.2
+            apex_predator: 0
+            end_strike: 0
+            one_with_the_dragon_damage: 0
+            one_with_the_dragon_strength: 0
+            superior: 0
+         legendary:
+            strength: 0.1
+            crit_chance: 0.05
+            crit_damage: 0.5
+            health: 0
+            defense: 0
+            intelligence: 0
+            merciless_swipe: 0.2
+            apex_predator: 0.2
+            end_strike: 0
+            one_with_the_dragon_damage: 0
+            one_with_the_dragon_strength: 0
+            superior: 0
+      base:
+         common:
+            strength: 0.1
+            crit_chance: 0.05
+            crit_damage: 0.5
+            health: 0
+            defense: 0
+            intelligence: 0
+         uncommon:
+            strength: 0.1
+            crit_chance: 0.05
+            crit_damage: 0.5
+            health: 0
+            defense: 0
+            intelligence: 0
+         rare:
+            strength: 0.1
+            crit_chance: 0.05
+            crit_damage: 0.5
+            health: 0
+            defense: 0
+            intelligence: 0
+         epic:
+            strength: 0.1
+            crit_chance: 0.05
+            crit_damage: 0.5
+            health: 0
+            defense: 0
+            intelligence: 0
+         legendary:
+            strength: 0.1
+            crit_chance: 0.05
+            crit_damage: 0.5
+            health: 0
+            defense: 0
+            intelligence: 0
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM0MjYzODc0NDkyMmI1ZmNmNjJjZDliZjI3ZWVhYjkxYjJlNzJkNmM3MGU4NmNjNWFhMzg4Mzk5M2U5ZDg0In19fQ==\'
+   enderdragon:
+      xp-block-mob-fish:
+         STONE:
+            xp: 1
+         COBBLESTONE:
+            xp: 1
+         ICE:
+            xp: 0.2
+         PACKED_ICE:
+            xp: 0.2
+         NETHERRACK:
+            xp: 0.5
+         SAND:
+            xp: 3
+         GRAVEL:
+            xp: 4
+         QUARTZ_ORE:
+            xp: 5
+         ENDER_STONE:
+            xp: 5
+         COAL_ORE:
+            xp: 5
+         IRON_ORE:
+            xp: 5
+         GOLD_ORE:
+            xp: 6
+         GLOWSTONE:
+            xp: 7
+         LAPIS_ORE:
+            xp: 7
+         REDSTONE_ORE:
+            xp: 7
+         GLOWING_REDSTONE_ORE:
+            xp: 7
+         EMERALD_ORE:
+            xp: 9
+         DIAMOND_ORE:
+            xp: 10
+         DIAMOND_BLOCK:
+            xp: 15
+         OBSIDIAN:
+            xp: 20
+         LOG:
+            xp: 6
+         WHEAT:
+            xp: 1
+         POTATOE:
+            xp: 1
+         CARROT:
+            xp: 1
+         MELON_BLOCK:
+            xp: 4
+         PUMPKIN:
+            xp: 4.5
+         SUGAR_CANE_BLOCK:
+            xp: 2
+         CACTUS:
+            xp: 2
+         BROWN_MUSHROOM:
+            xp: 2
+         RED_MUSHROOM:
+            xp: 2
+         COCOA:
+            xp: 2
+         raw_fish:
+            xp: 1000
+         salmon:
+            xp: 1000
+         clownfish:
+            xp: 1000
+         pufferfish:
+            xp: 1000
+         ZOMBIE:
+            xp: 100000
+      epic:
+         lore: 
+         - '§8Combat Pet'
+         - ' '
+         - '§7Crit Damage: §a+%crit_damage%'
+         - '§7Crit Chance: §a+%crit_chance%'
+         - '§7Strength: §a+%strength%'
+         - '  '
+         - '§6End Strike'
+         - '§7Deal §a%end_strike%% §7more damage to'
+         - '&7end mobs'
+         - '   '
+         - '§6One With The Dragon'
+         - '§7Buffs the Aspect of the'
+         - '§7Dragons sword by §a%one_with_the_dragon_damage% §c❁ Damage'
+         - '§7and §a%one_with_the_dragon_strength% §c❁ Strength'
+         - '    '
+         - '§7Progress to Level %lvl%: §e%progress_percent%'
+         - '§f-------------------- §e%cur_xp%§6/§e%req_xp%'
+         - '               '
+         - '§5§lEPIC'
+      legendary:
+         lore: 
+         - '§8Combat Pet'
+         - ' '
+         - '§7Crit Damage: §a+%crit_damage%'
+         - '§7Crit Chance: §a+%crit_chance%'
+         - '§7Strength: §a+%strength%'
+         - '  '
+         - '§6End Strike'
+         - '§7Deal §a%end_strike%% §7more damage to'
+         - '&7end mobs'
+         - '   '
+         - '§6One With The Dragon'
+         - '§7Buffs the Aspect of the'
+         - '§7Dragons sword by §a%one_with_the_dragon_damage% §c❁ Damage'
+         - '§7and §a%one_with_the_dragon_strength% §c❁ Strength'
+         - '    '
+         - '§6Superior'
+         - '§7Increases all stats by §a%superior%%'
+         - '     '
+         - '§7Progress to Level %lvl%: §e%progress_percent%'
+         - '§f-------------------- §e%cur_xp%§6/§e%req_xp%'
+         - '               '
+         - '§6§lLEGENDARY'
+      upgrade_per_level:
+         epic:
+            strength: 0.5
+            crit_chance: 0.1
+            crit_damage: 0.5
+            health: 0
+            defense: 0
+            intelligence: 0
+            end_strike: 0.25
+            one_with_the_dragon_damage: 0.5
+            one_with_the_dragon_strength: 0.3
+            superior: 0
+            merciless_swipe: 0
+            apex_predator: 0
+         legendary:
+            strength: 0.5
+            crit_chance: 0.1
+            crit_damage: 0.5
+            health: 0
+            defense: 0
+            intelligence: 0
+            end_strike: 0.25
+            one_with_the_dragon_damage: 0.5
+            one_with_the_dragon_strength: 0.3
+            superior: 0.1
+            merciless_swipe: 0
+            apex_predator: 0
+      base:
+         epic:
+            strength: 0
+            crit_chance: 0
+            crit_damage: 0
+            health: 0
+            defense: 0
+            intelligence: 0
+         legendary:
+            strength: 0
+            crit_chance: 0
+            crit_damage: 0
+            health: 0
+            defense: 0
+            intelligence: 0
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWVjM2ZmNTYzMjkwYjEzZmYzYmNjMzY4OThhZjdlYWE5ODhiNmNjMThkYzI1NDE0N2Y1ODM3NGFmZTliMjFiOSJ9fX0=\'

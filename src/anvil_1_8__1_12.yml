@@ -1,0 +1,52 @@
+sounds:
+   notenoughxp: ENDERMAN_TELEPORT
+   use: ANVIL_USE
+items:
+   green:
+      material: STAINED_GLASS_PANE
+      byte: 5
+      name: " "
+   background_red:
+      material: STAINED_GLASS_PANE
+      byte: 14
+      name: " "
+   background:
+      material: STAINED_GLASS_PANE
+      byte: 15
+      name: " "
+   anvil:
+      material: ANVIL
+      name: "&aCombine Items"
+      lore:
+      - "&7Combine the items in the slots"
+      - "&7to the left and right below."
+   close:
+      material: BARRIER
+      name: "&cClose"
+   upgrade:
+      material: STAINED_GLASS_PANE
+      byte: 14
+      name: "§6Item To Upgrade"
+      lore:
+      - "§7The item you want to"
+      - "§7upgrade should be placed in"
+      - "§7the slot on this side"
+   sacrifice:
+      material: STAINED_GLASS_PANE
+      byte: 14
+      name: "§6Item to Sacrifice"
+      lore:
+      - "§7The item you are"
+      - "§7sacrificing in order to"
+      - "§7upgrade the item on the"
+      - "§7left should be placed in"
+      - "§7the slot on this sode."
+   error:
+      material: BARRIER
+      name: "§cAnvil"
+      lore:
+      - "§7Place a target item in the left"
+      - "§7slot and a sacrifice item in the"
+      - "§7right slot to combine"
+      - "§7Enchantments"
+      
